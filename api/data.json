@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "name": "gymshark",
+    "categorys": "dama",
+    "price": 25.99,
+    "description": "Lorem ipsum dolor sit amet",
+    "descriptionDetails": "Este impresionante detalle de diseño es una verdadera obra de arte en el mundo de la moda. Creado con dedicación y atención al detalle, esta prenda fusiona la elegancia y la comodidad de una manera sin igual. Los materiales de alta calidad y la artesanía experta se combinan para brindar una sensación de lujo al usarla. Ya sea que busques un toque de distinción para un look casual o desees elevar tu estilo formal, esta prenda es la elección perfecta. Su versatilidad y sofisticación garantizan que te destaques en cualquier ocasión.",
+    "image": "../src/assets/image/dama1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "pantalón corto",
+    "categorys": "caballero",
+    "price": 35.99,
+    "description": "Lorem ipsum dolor sit amet",
+    "descriptionDetails": "Este impresionante detalle de diseño es una verdadera obra de arte en el mundo de la moda. Creado con dedicación y atención al detalle, esta prenda fusiona la elegancia y la comodidad de una manera sin igual. Los materiales de alta calidad y la artesanía experta se combinan para brindar una sensación de lujo al usarla. Ya sea que busques un toque de distinción para un look casual o desees elevar tu estilo formal, esta prenda es la elección perfecta. Su versatilidad y sofisticación garantizan que te destaques en cualquier ocasión.",
+    "image": "../src/assets/image/caballero1.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Jogger niños",
+    "categorys": "ninos",
+    "price": 19.99,
+    "description": "Lorem ipsum dolor sit amet",
+    "descriptionDetails": "Este impresionante detalle de diseño es una verdadera obra de arte en el mundo de la moda. Creado con dedicación y atención al detalle, esta prenda fusiona la elegancia y la comodidad de una manera sin igual. Los materiales de alta calidad y la artesanía experta se combinan para brindar una sensación de lujo al usarla. Ya sea que busques un toque de distinción para un look casual o desees elevar tu estilo formal, esta prenda es la elección perfecta. Su versatilidad y sofisticación garantizan que te destaques en cualquier ocasión.",
+    "image": "../src/assets/image/ninos1.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Short bella",
+    "categorys": "dama",
+    "price": 25.99,
+    "description": "Lorem ipsum dolor sit amet",
+    "descriptionDetails": "Este impresionante detalle de diseño es una verdadera obra de arte en el mundo de la moda. Creado con dedicación y atención al detalle, esta prenda fusiona la elegancia y la comodidad de una manera sin igual. Los materiales de alta calidad y la artesanía experta se combinan para brindar una sensación de lujo al usarla. Ya sea que busques un toque de distinción para un look casual o desees elevar tu estilo formal, esta prenda es la elección perfecta. Su versatilidad y sofisticación garantizan que te destaques en cualquier ocasión.",
+    "image": "../src/assets/image/dama2.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Pantalón para hombres",
+    "categorys": "caballero",
+    "price": 35.99,
+    "description": "Lorem ipsum dolor sit amet",
+    "descriptionDetails": "Este impresionante detalle de diseño es una verdadera obra de arte en el mundo de la moda. Creado con dedicación y atención al detalle, esta prenda fusiona la elegancia y la comodidad de una manera sin igual. Los materiales de alta calidad y la artesanía experta se combinan para brindar una sensación de lujo al usarla. Ya sea que busques un toque de distinción para un look casual o desees elevar tu estilo formal, esta prenda es la elección perfecta. Su versatilidad y sofisticación garantizan que te destaques en cualquier ocasión.",
+    "image": "../src/assets/image/caballero2.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Vestido para niñas",
+    "categorys": "ninos",
+    "price": 19.99,
+    "description": "Lorem ipsum dolor sit amet",
+    "descriptionDetails": "Este impresionante detalle de diseño es una verdadera obra de arte en el mundo de la moda. Creado con dedicación y atención al detalle, esta prenda fusiona la elegancia y la comodidad de una manera sin igual. Los materiales de alta calidad y la artesanía experta se combinan para brindar una sensación de lujo al usarla. Ya sea que busques un toque de distinción para un look casual o desees elevar tu estilo formal, esta prenda es la elección perfecta. Su versatilidad y sofisticación garantizan que te destaques en cualquier ocasión.",
+    "image": "../src/assets/image/ninos2.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Camiseta para damas",
+    "categorys": "dama",
+    "price": 25.99,
+    "description": "Lorem ipsum dolor sit amet",
+    "descriptionDetails": "Este impresionante detalle de diseño es una verdadera obra de arte en el mundo de la moda. Creado con dedicación y atención al detalle, esta prenda fusiona la elegancia y la comodidad de una manera sin igual. Los materiales de alta calidad y la artesanía experta se combinan para brindar una sensación de lujo al usarla. Ya sea que busques un toque de distinción para un look casual o desees elevar tu estilo formal, esta prenda es la elección perfecta. Su versatilidad y sofisticación garantizan que te destaques en cualquier ocasión.",
+    "image": "../src/assets/image/dama3.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Pantalón para hombres",
+    "categorys": "caballero",
+    "price": 35.99,
+    "description": "Lorem ipsum dolor sit amet",
+    "descriptionDetails": "Este impresionante detalle de diseño es una verdadera obra de arte en el mundo de la moda. Creado con dedicación y atención al detalle, esta prenda fusiona la elegancia y la comodidad de una manera sin igual. Los materiales de alta calidad y la artesanía experta se combinan para brindar una sensación de lujo al usarla. Ya sea que busques un toque de distinción para un look casual o desees elevar tu estilo formal, esta prenda es la elección perfecta. Su versatilidad y sofisticación garantizan que te destaques en cualquier ocasión.",
+    "image": "../src/assets/image/caballero3.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Vestido para niñas",
+    "categorys": "ninos",
+    "price": 19.99,
+    "description": "Lorem ipsum dolor sit amet",
+    "descriptionDetails": "Este impresionante detalle de diseño es una verdadera obra de arte en el mundo de la moda. Creado con dedicación y atención al detalle, esta prenda fusiona la elegancia y la comodidad de una manera sin igual. Los materiales de alta calidad y la artesanía experta se combinan para brindar una sensación de lujo al usarla. Ya sea que busques un toque de distinción para un look casual o desees elevar tu estilo formal, esta prenda es la elección perfecta. Su versatilidad y sofisticación garantizan que te destaques en cualquier ocasión.",
+    "image": "../src/assets/image/ninos3.jpg"
+  }
+]
